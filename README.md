@@ -17,3 +17,7 @@ And then
 ```bash
 npm run server
 ```
+
+Next changes:
+
+- [ ] Add a new feature
